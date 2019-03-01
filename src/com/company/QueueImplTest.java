@@ -37,7 +37,7 @@ public abstract class QueueImplTest {
                             break;
                 }
                 case 2:{
-                    System.out.print("Nombre de usuario que desea meter : ");
+                    System.out.print("Nombre  : ");
                     String nombre = scan.nextLine();
 
                     break;
